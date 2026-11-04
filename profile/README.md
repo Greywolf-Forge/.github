@@ -1,15 +1,21 @@
 # Greywolf Forge
 
-Independent software development focused on **game technology, Linux tooling, automation and open-source projects**.
+Game engineering, Linux tooling and automation.
 
-We build practical software with an emphasis on performance, maintainability and understanding how things work.
+## Projects
 
-## What we're working on
+| Repository | What it is | State |
+| --- | --- | --- |
+| [RoM-PL](https://github.com/Greywolf-Forge/RoM-PL) | Polish translation of Rise of Mankind: A New Dawn rev1093, a Civilization IV: Beyond the Sword 3.19 mod. 16 340 strings. | Published. Checked statically and under Wine, not yet on Windows. |
+| [CoM-PL](https://github.com/Greywolf-Forge/CoM-PL) | Polish translation of Chronicles of Mankind 1.3.3. 17 832 strings. | Same as above. |
 
-**Bonasus** — an ongoing native 64-bit game host and compatibility project for *Civilization IV: Beyond the Sword*. [Project website](https://bonasus.dev).
+Polskie tłumaczenia modów do Civ4 BTS: RoM-PL i CoM-PL. Błędy w tekstach zgłaszaj przez Issues w danym repozytorium.
 
-Alongside it, we work on Linux utilities, infrastructure, modding, localization and developer tools. More repositories will appear here as the projects are ready to share.
+## How we work
 
----
+- Linux first, native code.
+- A project is "done" when it has been tested. If something was not tested, the README says so.
+- No game assets, SDK files or third-party binaries in our repositories.
+- Translations go back to the mod authors under the MIT license.
 
 Maintained by [@zazpany](https://github.com/zazpany).
