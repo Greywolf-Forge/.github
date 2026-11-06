@@ -19,4 +19,8 @@ Polskie tłumaczenia: modów do Civ4 BTS (RoM-PL, CoM-PL) oraz gry Chained Echoe
 - No game assets, SDK files or third-party binaries in our source repositories. Release packages contain only the files a translation patch has to replace, and they require a legal copy of the game.
 - Translations go back to the mod authors under the MIT license.
 
+## Community
+
+Join us on [Discord](https://discord.gg/TYcdct6fTn). Questions, bug reports and translation feedback are welcome there too.
+
 Maintained by [@zazpany](https://github.com/zazpany).
